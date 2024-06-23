@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammmed Zubair</h1>
+<h1 align="center">Hi 👋, I'm Dawood Mohammmed Bawazir</h1>
 <h3 align="center">Back-end Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DBawazir2002&label=Profile%20views&color=0e75b6&style=flat" alt="DBawazir2002" /> </p>
