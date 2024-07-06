@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **php , laravel**
 
-- 📫 How to reach me **boruto.laravel.naruto.23@gmail.com**
+- 📫 How to reach me **dawoodmohmmedddawoodmohmmeddawoodbawazir@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
