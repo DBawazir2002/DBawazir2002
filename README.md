@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **php , Laravel**
 
-- 📫 How to reach me **<a href="mailto:da7ma7ba7@gmail.com">da7ma7ba7@gmail.com</a>**
+- 📫 How to reach me **<a href="mailto:bawazirdawood@gmail.com">bawazirdawood@gmail.com</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
